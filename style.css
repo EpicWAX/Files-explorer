@@ -1,0 +1,35 @@
+body {
+    background-color: #00BFFF;
+}
+h1 {
+    font-size: 35px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: white;
+}
+.trucvegan {
+    display: inline;
+    font-size: 22px;
+}
+#dossier{
+    background-color: #adadad;
+}
+#main{
+    height: 100%;
+    display: block;
+}
+#mainrow {
+    height: 80%;
+}
+.left{
+    float: left;
+    margin-left: 97px;
+}
+.right{
+    float :right;
+    margin-right: 153px;
+}
+/*#retour{
+    margin-left:80px; 
+    margin-top: 82px;
+}*/
